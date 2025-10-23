@@ -13,8 +13,9 @@ Components used in this volume (see [fritzing.org](https://fritzing.org/) for co
 | SG90 Servomotor | <img src="images/SG90_Graphic.png" width="200" height="194"> |
 | TT Motor | <img src="images/TT Motor Part.png" width="300" height="145"> |
 | DRV8833 | <img src="images/DRV8833_Pinout.png" width="200" height="163"> |
-| ULN2003 Motor Driver and 28BYJ-48 5V Stepper Motor | <img src="StepperMotors/images/Stepper_28BYJ-48_ULN2003_PART.png" width="300" height="173"> |
+| ULN2003 Motor Driver and 28BYJ-48 5V Stepper Motor | <img src="images/Stepper_28BYJ-48_ULN2003_PART.png" width="300" height="173"> |
 | External 6V Power Supply | <img src="images/4xAABatteryCase_BatteryPack.png" width="330" height="200"> |
 | External 5V DC Power Source (*not from your Pico!*) | <img src="images/2.1mm Barrel Jack with Terminal Block_AdaFruit_368.png" width="100" height="36">  |
 
 <figcaption align="center">Components used in this volume</figcaption>
+
