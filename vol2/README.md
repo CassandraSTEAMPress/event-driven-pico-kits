@@ -18,6 +18,3 @@ Components used in this volume (see [fritzing.org](https://fritzing.org/) for co
 | External 5V DC Power Source (*not from your Pico!*) | <img src="images/2.1mm Barrel Jack with Terminal Block_AdaFruit_368.png" width="200" height="72">  |
 
 <figcaption align="center">Components used in this volume</figcaption>
-
-
-
