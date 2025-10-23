@@ -3,8 +3,8 @@ Components used in this volume (see [fritzing.org](https://fritzing.org/) for co
 
 | Description            | Image               |
 | ---------------------- | ------------------- |
-| Half-sized Breadboard                                 | <img src="images/HalfSizeBreadboard.png"            width="100" height="64"> |
-| Full-sized Breadboard                                 | <img src="images/FullSizeBreadboard.png"            width="200" height="64"> |
+| Half-sized Breadboard                                 | <img src="images/HalfSizeBreadboard.png"            width="150" height="96"> |
+| Full-sized Breadboard                                 | <img src="images/FullSizeBreadboard.png"            width="300" height="96"> |
 | Male-to-male jumper wires                             | <img src="images/M2MJumperWires_AssortedColors.png" width="100" height="50"> |
 | 330 Ohm resistors (orange, orange, and brown stripes) | <img src="images/330OhmResistor.png"                width="100" height="25"> |
 | Red LED<br/>- the cathode (- negative) lead is the shorter lead<br/>- the anode (+ positive) lead is the longer lead | <img src="images/RedLED.png" width="100" height="30"> |
@@ -18,4 +18,5 @@ Components used in this volume (see [fritzing.org](https://fritzing.org/) for co
 | External 5V DC Power Source (*not from your Pico!*) | <img src="images/2.1mm Barrel Jack with Terminal Block_AdaFruit_368.png" width="100" height="36">  |
 
 <figcaption align="center">Components used in this volume</figcaption>
+
 
